@@ -8,25 +8,25 @@ Note: This is a forked repo. The original repo is [here](https://github.com/jwil
 -- Above grade is based on the percentile rankings of the 4 repo scores below, which are compared with the top 1000 most-downloaded npm libraries.
 
 <details>
-<summary><span style="font-size: 20px;"><strong>Maintenance -- Top [number] Percentile</strong></summary>
+<summary><span style="font-size: 20px;"><strong>Maintenance -- </strong>Top <strong><span style="color: blue;">24.8</span></strong> Percentile</summary>
 <div>
-<strong>Top [number] Percentile</strong> [histogram]<br>
+[histogram]<br>
 Activity and involvement by this project’s maintainer(s). Maintainers could increase these metrics by extending documentation and being more responsive to community participation (especially issues and PRs).<br><br>
 </div>
 <div>
-  <strong>Issues Maintenance:</strong> [number] percentile
+  <strong>Issues Maintenance:</strong> Top 6.5 percentile
   <p>How efficiently issues are addressed: issues closed and comments on issues.</p>
 </div>
 <div>
-  <strong>Community Documentation:</strong> [number] percentile
+  <strong>Community Documentation:</strong> Top 42.9 percentile
   <p>Support for the community to participate: issue and PR templates, code of conduct, governance, etc.</p>
 </div>
 <div>
-  <strong>Code Maintenance:</strong> [number] percentile
+  <strong>Code Maintenance:</strong> Top 14.6 percentile
   <p>How efficiently code changes are addressed: commits and PRs closed, commit standards.</p>
 </div>
 <div>
-  <strong>Maintainer History:</strong> [number] percentile
+  <strong>Maintainer History:</strong> Top 35.3 percentile
   <p>Maintainer experience: maintainers' other projects.</p>
 </div>
 </details>
@@ -35,7 +35,7 @@ Activity and involvement by this project’s maintainer(s). Maintainers could in
 <details>
 <summary><span style="font-size: 20px;"><strong>Contribution -- Top [number] Percentile</strong></summary>
 <div>
-<strong>Top [number] Percentile</strong> [histogram]<br>
+[histogram]<br>
 Activity and involvement by this project’s contributors. Fostering and encouraging more contribution and participation would increase these metrics.<br><br>
 </div> 
 <div>
@@ -56,7 +56,7 @@ Activity and involvement by this project’s contributors. Fostering and encoura
 <details>
 <summary><span style="font-size: 20px;"><strong>Popularity -- Top [number] Percentile</strong></summary>
 <div>
-<strong>Top [number] Percentile</strong> [histogram]<br>
+[histogram]<br>
 Activity and usage by this project’s consumers. Spreading this project to more users and maintaining it over time increases these metrics.<br><br>
 </div>   
 <div>

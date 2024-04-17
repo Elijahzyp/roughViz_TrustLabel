@@ -103,7 +103,7 @@ Security and review of the project’s code. Contributors can increase these met
 ​																				[Metric Details](https://github.com/Elijahzyp/roughViz_TrustLabel/blob/branch_mcpc/MCPC%20Template%20Metric%20Details.md)
 
 
-
+***
 
 
 

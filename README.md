@@ -1,5 +1,6 @@
 # roughViz’s Trustee Percentiles
 
+Note: This is a forked repo. The original repo is [here](https://github.com/jwilber/roughViz).
 *Data as of January 31, 2024*
 
 ### [grade] 

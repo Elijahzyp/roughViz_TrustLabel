@@ -9,7 +9,6 @@ Note: This is a forked repo. The original repo is [here](https://github.com/jwil
 -- Above grade is based on the percentile rankings of the 3 trust component scores below, which are compared with the top 1000 most-downloaded npm libraries.
 
 <details>
-$${\color{blue}Blue}$$
 <summary><span style="font-size: 20px;"><strong>Community Activity and Integrity -- </strong>Top <strong><span style="color: blue;">22.88</span> Percentile</strong></summary>
 <div>
 <center><img src="./images/roughViz/community_activity_and_integrity_component.png" width="350px" height="150px"></center><br>

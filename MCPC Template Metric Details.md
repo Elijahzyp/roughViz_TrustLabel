@@ -8,125 +8,121 @@
 
 ### Issues Maintenance
 
-*Average of normalized (Normalized for percentage, Inverse normalized for time) below metrics*
+*average of normalized (norm for percentage, inv_norm for time) below metrics*
 
-- Percentage of [issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues) closed
-- Average time to close [issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues) (7 months)
-- Average time until first [maintainer](https://opensource.guide/how-to-contribute/#anatomy-of-an-open-source-project) comment on [issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues) (7 months)
+- percentage of [issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues) closed : 70%
+- average time to close [issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues) (7 months) : 0
+- average time until first [maintainers](https://opensource.guide/how-to-contribute/#anatomy-of-an-open-source-project) comment on [issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues) (7 months) : 0
 
 ### Code Maintenance
 
-*Average of normalized (Normalized for percentage and number, Inverse normalized for time and days) below metrics*
+*average of normalized (norm for percentage and number, inv_norm for time and days) below metrics*
 
-- Percentage of [PR](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)s closed
-- Time to close [PR](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)s (7 months)
-- Time until first [maintainer](https://opensource.guide/how-to-contribute/#anatomy-of-an-open-source-project) comment or close on [PR](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)s (7 months)
-- Number of [commits](https://docs.github.com/en/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/about-commits) closed (7 months)
-- Days since last [commit](https://docs.github.com/en/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/about-commits)
-- Number of [commit](https://docs.github.com/en/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/about-commits) tags (7 months)
+- percentage of [PR](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)s closed : 94%
+- time to close [PR](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)s (7 months) : 0.5 days
+- time until first [maintainer](https://opensource.guide/how-to-contribute/#anatomy-of-an-open-source-project) comment or close on [PR](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)s (7 months) : 1.6 days
+- days since last [commit](https://docs.github.com/en/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/about-commits) : 69 days
+- number of [commit](https://docs.github.com/en/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/about-commits) tags (7 months) : 10
 
 ### Community Documentation
 
-*Average of normalized below metrics*
+*average of normalized below metrics*
 
-- [Number of issue and PR templates](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file)
-- Number of headings in code of conduct, contributing, governance documents
-  - Number of headings (#, ##, ###) in [code of conduct](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-code-of-conduct-to-your-project)
-  - Number of headings (#, ##, ###) in [contributing](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors)
-  - Number of heading (#, ##, ###) in governance documents
-- Number of headings in [README](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)
+- [health percentage](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file) : 42
+- number of headings in code of conduct, contributing, governance documents
+  - number of headings (#, ##, ###) in [code of conduct](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-code-of-conduct-to-your-project) : no such file
+  - number of headings (#, ##, ###) in [contributing](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors) : no such file
+  - number of heading (#, ##, ###) in governance documents : no such file
+- number of headings in [README](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes) : 15
 
 ### Maintainer History
 
-*Average of normalized below metrics*
+*average of normalized below metrics*
 
-- Average number of projects owned by each [maintainer](https://opensource.guide/how-to-contribute/#anatomy-of-an-open-source-project)
-- Median age of other projects owned by each [maintainer](https://opensource.guide/how-to-contribute/#anatomy-of-an-open-source-project)
+- average number of projects owned by each [maintainer](https://opensource.guide/how-to-contribute/#anatomy-of-an-open-source-project) : 89
+- median age of other projects owned by each [maintainer](https://opensource.guide/how-to-contribute/#anatomy-of-an-open-source-project) : 1909 days
 
 
 
 ## Contribution
 
-### Contributor Participation
+### Contributor Activity
 
-*Average of normalized below metrics*
+*average of normalized below metrics*
 
-- Number of distinct contributors, maintainers, issue reporters (7 months) 
+- number of distinct contributors and issue reporters (7 months) 
 
-  - Number of distinct [contributors](https://opensource.guide/how-to-contribute/#anatomy-of-an-open-source-project) (7 months)
-  - Number of distinct [maintainers](https://opensource.guide/how-to-contribute/#anatomy-of-an-open-source-project) (7 months)
-  - Number of [issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues) reporters (7 months)
+  - number of distinct [contributors](https://opensource.guide/how-to-contribute/#anatomy-of-an-open-source-project) (7 months) : 2
+  - number of [issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues) reporters (7 months) : 0
 
-- Number of comments per [commit](https://docs.github.com/en/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/about-commits) (7 months)
-- Average length of comments (7 months)
+- number of comments per [commit](https://docs.github.com/en/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/about-commits) (7 months) : 0.2
+- average length of comments (7 months) : 18
 
 ### Code Contribution
 
-*Average of normalized below metrics*
+*average of normalized below metrics*
 
-- Number of submitted [PR](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)s (7 months) 
-- Number of [commits](https://docs.github.com/en/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/about-commits) pushed (7 months)
+- number of submitted [PR](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)s (7 months) : 5
+- number of [commits](https://docs.github.com/en/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/about-commits) pushed (7 months) : 50
 
 ### Contributor Growth
 
-*Average of normalized below metrics*
+*average of normalized below metrics*
 
-- Change in number of active [contributors](https://opensource.guide/how-to-contribute/#anatomy-of-an-open-source-project) (7 months)
-- Change number of [PR](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)s per month from previous month
-
-
+- Change in number of active [contributors](https://opensource.guide/how-to-contribute/#anatomy-of-an-open-source-project) (7 months) : No contributor growth found in last 7 months.
 
 ## Popularity
 
 ### Stars and Watches
 
-*Average of normalized below metrics*
+*average of normalized below metrics*
 
-- Number of [stars](https://docs.github.com/en/get-started/exploring-projects-on-github/saving-repositories-with-stars#about-stars)
-- Number of [watchers](https://docs.github.com/en/rest/activity/watching?apiVersion=2022-11-28#about-watching)
+- number of [stars](https://docs.github.com/en/get-started/exploring-projects-on-github/saving-repositories-with-stars#about-stars) : 6604
+- number of [watchers](https://docs.github.com/en/rest/activity/watching?apiVersion=2022-11-28#about-watching) : 55
 
-### Forks
+### Fork
 
-*Normalized metric*
+*average of normalized below metrics*
 
-- Number of [forks](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo)
-
-### Downstream Dependents
-
-*Normalized metric*
-
-- Number of [downstream dependents](https://docs.github.com/en/code-security/supply-chain-security/understanding-your-software-supply-chain/exploring-the-dependencies-of-a-repository)
+- number of [forks](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) : 228
 
 ### Project Maturity
 
-*Average of normalized below metrics*
+*average of below metrics and normalized number of versions*
 
-- Time since created
-- Number of [versions](https://docs.github.com/en/repositories/releasing-projects-on-github/about-releases)
+- time since created : 1656 days
+- number of [versions](https://docs.github.com/en/repositories/releasing-projects-on-github/about-releases) : 0
 
+### Downstream Dependents
+
+average of normalized below metrics
+
+- number of [downstream dependents](https://docs.github.com/en/code-security/supply-chain-security/understanding-your-software-supply-chain/exploring-the-dependencies-of-a-repository) : 5
 
 
 ## Code Quality
 
 ### Dependencies Health
 
-*Average of normalized (normalized for percentage, inverse normalized for number) below metrics*
+*average of normalized (norm for percentage, inv_norm for number) below metrics*
 
-- Dependencies version staleness
-- Number of  [dependencies](https://docs.github.com/en/code-security/supply-chain-security/understanding-your-software-supply-chain/exploring-the-dependencies-of-a-repository)
-- Number of [dependencies](https://docs.github.com/en/code-security/supply-chain-security/understanding-your-software-supply-chain/exploring-the-dependencies-of-a-repository) with unaddressed velnerabilities
+- dependencies version staleness : 415
+- number of  [dependencies](https://docs.github.com/en/code-security/supply-chain-security/understanding-your-software-supply-chain/exploring-the-dependencies-of-a-repository) : 20
+- number of [dependencies](https://docs.github.com/en/code-security/supply-chain-security/understanding-your-software-supply-chain/exploring-the-dependencies-of-a-repository) with unaddressed velnerabilities : 0
 
 ### Testing Quality
 
-*Average of normalized below metrics*
+*average of normalized below metrics*
 
-- Number of [check runs](https://docs.github.com/en/rest/guides/using-the-rest-api-to-interact-with-checks?apiVersion=2022-11-28)
-- Number of [workflow](https://docs.github.com/en/actions/using-workflows/about-workflows) runs 
-- Distinct number of perople who closed [PR](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)s (7 months)
+- number of [check runs](https://docs.github.com/en/rest/guides/using-the-rest-api-to-interact-with-checks?apiVersion=2022-11-28) : 0
+- number of [workflow](https://docs.github.com/en/actions/using-workflows/about-workflows) runs : 0
+- distinct number of perople who closed [PR](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)s (7 months) : 2
 
 ### Review Coverage
 
-*Average of normalized (normalized for number, inverse normalized for percentage) below metrics*
+*average of normalized (norm for number, inv_norm for percentage and average commit lines) below metrics*
 
-- Number of [contributors](https://opensource.guide/how-to-contribute/#anatomy-of-an-open-source-project) per code file
-- Percentage of files with 2+ contributors
+*avg( norm(contributors per code file), norm(% of files with 2+ contributors), inv_norm(avg commit lines of code))*
+
+- number of [contributors](https://opensource.guide/how-to-contribute/#anatomy-of-an-open-source-project) per code file : 1.2
+- percentage of files with 2+ contributors : 10

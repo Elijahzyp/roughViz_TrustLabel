@@ -10,7 +10,9 @@ Note: This is a forked repo. The original repo is [here](https://github.com/jwil
 <details>
 <summary><span style="font-size: 20px;"><strong>Maintenance -- </strong>Top <strong><span style="color: blue;">24.83</span></strong> Percentile</summary>
 <div>
-<center><img src="./images/roughViz/maintenance.png" width="400px" height="180px"></center><br>
+<div align=center>
+  <img src="./images/roughViz/maintenance.png" width="500px" height="180px">
+</div>
 Activity and involvement by this project’s maintainer(s). Maintainers could increase these metrics by extending documentation and being more responsive to community participation (especially issues and PRs).<br><br>
 </div>
 <table>
@@ -43,7 +45,9 @@ Activity and involvement by this project’s maintainer(s). Maintainers could in
 <details>
 <summary><span style="font-size: 20px;"><strong>Contribution -- </strong>Top <strong><span style="color: blue;">18.2</span></strong> Percentile</summary>
 <div>
-<center><img src="./images/roughViz/contribution.png" width="400px" height="180px"></center><br>
+<div align=center>
+  <img src="./images/roughViz/contribution.png" width="500px" height="180px">
+</div>
 Activity and involvement by this project’s contributors. Fostering and encouraging more contribution and participation would increase these metrics.<br><br>
 </div> 
 <table>
@@ -74,7 +78,9 @@ Activity and involvement by this project’s contributors. Fostering and encoura
 <details>
 <summary><span style="font-size: 20px;"><strong>Popularity -- </strong>Top <strong><span style="color: blue;">36.7</span></strong> Percentile</summary>
 <div>
-<center><img src="./images/roughViz/popularity.png" width="400px" height="180px"></center><br>
+<div align=center>
+  <img src="./images/roughViz/popularity.png" width="500px" height="180px">
+</div>
 Activity and usage by this project’s consumers. Spreading this project to more users and maintaining it over time increases these metrics.<br><br>
 </div>   
 <table>
@@ -107,7 +113,9 @@ Activity and usage by this project’s consumers. Spreading this project to more
 <details>
 <summary><span style="font-size: 20px;"><strong>Code Quality -- </strong>Top <strong><span style="color: blue;">16.2</span></strong> Percentile</summary>
 <div>
-<center><img src="./images/roughViz/code_quality.png" width="400px" height="180px"></center><br>
+<div align=center>
+  <img src="./images/roughViz/code_quality.png" width="500px" height="180px">
+</div>
 Security and review of the project’s code. Contributors can increase these metrics by maintaining the dependencies and setting up automated testing and procedural reviews.<br><br>
 </div>   
 <table>

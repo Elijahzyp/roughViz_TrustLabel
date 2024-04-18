@@ -35,7 +35,7 @@ Activity and involvement by this project’s maintainer(s). Maintainers could in
 <details>
 <summary><span style="font-size: 20px;"><strong>Contribution -- </strong>Top <strong><span style="color: blue;">18.2</span></strong> Percentile</summary>
 <div>
-<center><img src="./images/roughViz/contribution" width="400px" height="180px"></center><br>
+<center><img src="./images/roughViz/contribution.png" width="400px" height="180px"></center><br>
 Activity and involvement by this project’s contributors. Fostering and encouraging more contribution and participation would increase these metrics.<br><br>
 </div> 
 <div>
@@ -56,7 +56,7 @@ Activity and involvement by this project’s contributors. Fostering and encoura
 <details>
 <summary><span style="font-size: 20px;"><strong>Popularity -- </strong>Top <strong><span style="color: blue;">36.7</span></strong> Percentile</summary>
 <div>
-<center><img src="./images/roughViz/popularity" width="400px" height="180px"></center><br>
+<center><img src="./images/roughViz/popularity.png" width="400px" height="180px"></center><br>
 Activity and usage by this project’s consumers. Spreading this project to more users and maintaining it over time increases these metrics.<br><br>
 </div>   
 <div>
@@ -81,7 +81,7 @@ Activity and usage by this project’s consumers. Spreading this project to more
 <details>
 <summary><span style="font-size: 20px;"><strong>Code Quality -- </strong>Top <strong><span style="color: blue;">12.35</span></strong> Percentile</summary>
 <div>
-<center><img src="./images/roughViz/code_quality" width="400px" height="180px"></center><br>
+<center><img src="./images/roughViz/code_quality.png" width="400px" height="180px"></center><br>
 Security and review of the project’s code. Contributors can increase these metrics by maintaining the dependencies and setting up automated testing and procedural reviews.<br><br>
 </div>   
 <div>

@@ -51,7 +51,7 @@
 
 - Percentage of [issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues) closed : 70%
 - Average time to close [issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues) (7 months) : No issue found in last 7 months.
-- Average time until first [maintainers](https://opensource.guide/how-to-contribute/#anatomy-of-an-open-source-project) comment on [issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues) (7 months) : There's no issue in last 7 months.
+- Average time until first [maintainers](https://opensource.guide/how-to-contribute/#anatomy-of-an-open-source-project) comment on [issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues) (7 months) : No issue found in last 7 months.
 
 ### Code Maintenance
 

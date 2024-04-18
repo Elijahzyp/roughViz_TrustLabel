@@ -4,7 +4,7 @@ Note: This is a forked repo. The original repo is [here](https://github.com/jwil
 *Data as of January 31, 2024*
 
 
-### F
+<center><img src="./images/grade_d.svg" width="100px" height="100px"></center>
 
 -- Above grade is based on the percentile rankings of the 3 trust component scores below, which are compared with the top 1000 most-downloaded npm libraries.
 

@@ -61,7 +61,7 @@ Activity and involvement by this project’s maintainer(s) for the benefit of th
 <details>
 <summary><span style="font-size: 20px;"><strong>Code Quality -- </strong>Top <strong><span style="color: blue;">12.35</span></strong> Percentile</summary>
 <div>
-<center><img src="./images/roughViz/code_quality.png" width="400px" height="180px"></center><br>
+<center><img src="./images/roughViz/code_quality_component.png" width="400px" height="180px"></center><br>
 Security and scalability of the project’s code. Contributors can increase these metrics by maintaining the dependencies and setting up automated testing and procedural reviews.<br><br>
 </div>   
 <div>

@@ -3,97 +3,97 @@
 Note: This is a forked repo. The original repo is [here](https://github.com/jwilber/roughViz).
 *Data as of January 31, 2024*
 
-### [grade] 
+<center><img src="./images/grade_d.svg" width="100px" height="100px"></center>
 
 -- Above grade is based on the percentile rankings of the 4 repo scores below, which are compared with the top 1000 most-downloaded npm libraries.
 
 <details>
 <summary><span style="font-size: 20px;"><strong>Maintenance -- </strong>Top <strong><span style="color: blue;">24.8</span></strong> Percentile</summary>
 <div>
-[histogram]<br>
+<center><img src="./images/roughViz/maintenance.png" width="400px" height="180px"></center><br>
 Activity and involvement by this project’s maintainer(s). Maintainers could increase these metrics by extending documentation and being more responsive to community participation (especially issues and PRs).<br><br>
 </div>
 <div>
-  <strong>Issues Maintenance:</strong> Top 6.5 percentile
+  <strong>Issues Maintenance:</strong> Top 6.5 Percentile
   <p>How efficiently issues are addressed: issues closed and comments on issues.</p>
 </div>
 <div>
-  <strong>Community Documentation:</strong> Top 42.9 percentile
+  <strong>Community Documentation:</strong> Top 42.9 Percentile
   <p>Support for the community to participate: issue and PR templates, code of conduct, governance, etc.</p>
 </div>
 <div>
-  <strong>Code Maintenance:</strong> Top 14.6 percentile
+  <strong>Code Maintenance:</strong> Top 14.6 Percentile
   <p>How efficiently code changes are addressed: commits and PRs closed, commit standards.</p>
 </div>
 <div>
-  <strong>Maintainer History:</strong> Top 35.3 percentile
+  <strong>Maintainer History:</strong> Top 35.3 Percentile
   <p>Maintainer experience: maintainers' other projects.</p>
 </div>
 </details>
 
 
 <details>
-<summary><span style="font-size: 20px;"><strong>Contribution -- Top [number] Percentile</strong></summary>
+<summary><span style="font-size: 20px;"><strong>Contribution -- </strong>Top <strong><span style="color: blue;">18.2</span></strong> Percentile</summary>
 <div>
-[histogram]<br>
+<center><img src="./images/roughViz/contribution" width="400px" height="180px"></center><br>
 Activity and involvement by this project’s contributors. Fostering and encouraging more contribution and participation would increase these metrics.<br><br>
 </div> 
 <div>
-  <strong>Code Contribution:</strong> [number] percentile
+  <strong>Code Contribution:</strong> Top 27.8 Percentile
   <p>Activity to add to the codebase: commits and PRs.</p>
 </div>
 <div>
-  <strong>Contributor Participation:</strong> [number] percentile
+  <strong>Contributor Participation:</strong> Top 10.6 Percentile
   <p>Activity in discussion and participation: number of contributors, comments made, quality of comments.</p>
 </div>
 <div>
-  <strong>Contributor Growth:</strong> [number] percentile
+  <strong>Contributor Growth:</strong> Top 16.4 Percentile
   <p>How the project is scaling in size: change in contributors, PRs.</p>
 </div>
 </details>
 
 
 <details>
-<summary><span style="font-size: 20px;"><strong>Popularity -- Top [number] Percentile</strong></summary>
+<summary><span style="font-size: 20px;"><strong>Popularity -- </strong>Top <strong><span style="color: blue;">36.7</span></strong> Percentile</summary>
 <div>
-[histogram]<br>
+<center><img src="./images/roughViz/popularity" width="400px" height="180px"></center><br>
 Activity and usage by this project’s consumers. Spreading this project to more users and maintaining it over time increases these metrics.<br><br>
 </div>   
 <div>
-  <strong>Stars and Watches:</strong>  [number] percentile
+  <strong>Stars and Watches:</strong> Top 64.4 Percentile
   <p>How much consumers follow this project: stargazers, watchers.</p>
 </div>
 <div>
-  <strong>Forks:</strong>  [number] percentile
+  <strong>Forks:</strong>  Top 57.4 Percentile
   <p>How much developers fork this project.</p>
 </div>
 <div>
-  <strong>Downstream Dependents:</strong>  [number] percentile
+  <strong>Downstream Dependents:</strong>  Top 24.3 Percentile
   <p>For projects producing packages and dependencies, how many downstream projects rely on them.</p>
 </div>
 <div>
-  <strong>Project Maturity:</strong>  [number] percentile
+  <strong>Project Maturity:</strong>  Top 0.7 Percentile
   <p>Size and age of repo: lines of code, creation time, versions.</p>
 </div>
 </details>
 
 
 <details>
-<summary><span style="font-size: 20px;"><strong>Code Quality -- Top [number] Percentile</strong></summary>
+<summary><span style="font-size: 20px;"><strong>Code Quality -- </strong>Top <strong><span style="color: blue;">12.35</span></strong> Percentile</summary>
 <div>
-<strong>Top [number] Percentile</strong> [histogram]<br>
+<center><img src="./images/roughViz/code_quality" width="400px" height="180px"></center><br>
 Security and review of the project’s code. Contributors can increase these metrics by maintaining the dependencies and setting up automated testing and procedural reviews.<br><br>
 </div>   
 <div>
-  <strong>Dependencies Health:</strong>  [number] percentile
+  <strong>Dependencies Health:</strong> Top 22.7 Percentile
   <p>Mitigation of dependency vulnerability risk: dependency versions, reported vulnerabilities.</p>
 </div>
 <div>
-  <strong>Review Coverage:</strong>  [number] percentile
+  <strong>Review Coverage:</strong> Top 17.8 Percentile
   <p>Scale of manual code reviews: contributors and reviewers per code portion, commit sizes.</p>
 </div>
 <div>
-  <strong>Testing Quality:</strong>  [number] percentile
+  <strong>Testing Quality:</strong> Top 8.2 Percentile
   <p>Scale of automated tests: workflow runs, check runs, code authors.</p>
 </div>
 </details>

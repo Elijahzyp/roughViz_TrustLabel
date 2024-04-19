@@ -6,13 +6,13 @@ Note: This is a forked repo. The original repo is [here](https://github.com/jwil
 
 <center><img src="./images/grade_d.svg" width="100px" height="100px"></center>
 
--- Above grade is based on the percentile rankings of the 3 trust component scores below, which are compared with the top 1000 most-downloaded npm libraries.
+This grade is based on the percentile rankings of the 3 trust component scores below, which are compared with the top 1000 most-downloaded npm libraries.
 
 <details>
 <summary><span style="font-size: 20px;"><strong>Community Activity and Integrity -- </strong>Beats <strong><span style="color: blue;">20.0%</span></strong> Other Repos</summary>
 <div>
 <div align=center>
-  <img src="./images/roughViz/community_activity_and_integrity_component.png" width="500px" height="180px">
+  <img src="./images/roughViz/community_activity_and_integrity_component.png" width="500px" height="125px">
 </div>
 Activity and usage by this project’s consumers and contributors. More people using and contributing to this project increases these metrics.<br><br>
 </div>
@@ -21,21 +21,21 @@ Activity and usage by this project’s consumers and contributors. More people u
   <tr>
     <td>
       <div>
-        <strong>Usage Popularity:</strong> Top 25.3 Percentile
+        <strong>Usage Popularity:</strong> Beats <strong>25.3%</strong>
         <p>How much consumers use this project: stars, watches, forks, downstream dependents.</p>
       </div>
       <div>
-        <strong>Code Contribution:</strong> Top 27.8 Percentile
-        <p>Activity to add to the codebase: commits and PRs.</p>
+        <strong>Code Contribution:</strong> Beats <strong>27.8%</strong>
+        <p>Activity which adds to the codebase: commits and PRs.</p>
       </div>
     </td>
     <td>
       <div>
-        <strong>Contributor Participation:</strong> Top 10.6 Percentile
+        <strong>Contributor Participation:</strong> Beats <strong>10.6%</strong>
         <p>Activity in discussion and participation: number of contributors, comments made, quality of comments.</p>
       </div>
       <div>
-        <strong>Contributor Growth:</strong> Top 16.4 Percentile
+        <strong>Contributor Growth:</strong> Beats <strong>16.4%</strong>
         <p>How the project is scaling in size: change in contributors, PRs.</p>
       </div>
     </td>
@@ -49,7 +49,7 @@ Activity and usage by this project’s consumers and contributors. More people u
 <summary><span style="font-size: 20px;"><strong>Maintenance and Goodwill -- </strong>Beats <strong><span style="color: blue;">24.8%</span></strong> Other Repos</summary>
 <div>
 <div align=center>
-  <img src="./images/roughViz/maintenance_and_goodwill_component.png" width="500px" height="180px">
+  <img src="./images/roughViz/maintenance_and_goodwill_component.png" width="500px" height="125px">
 </div>
 Activity and involvement by this project’s maintainer(s) for the benefit of the project community. Maintainers could increase these metrics by extending documentation and being more responsive to community participation (especially issues and PRs).<br><br>
 </div> 
@@ -57,21 +57,21 @@ Activity and involvement by this project’s maintainer(s) for the benefit of th
   <tr>
     <td>
       <div>
-        <strong>Issues Maintenance:</strong> Top 6.5 Percentile
+        <strong>Issues Maintenance:</strong> Beats <strong>6.5%</strong>
         <p>How efficiently issues are addressed: issues closed and comments on issues.</p>
       </div>
       <div>
-        <strong>Community Documentation:</strong> Top 42.9 Percentile
+        <strong>Community Documentation:</strong> Beats <strong>42.9%</strong>
         <p>Support for the community to participate: issue and PR templates, code of conduct, governance, etc.</p>
       </div>
     </td>
     <td>
       <div>
-        <strong>Code Maintenance:</strong> Top 14.6 Percentile
+        <strong>Code Maintenance:</strong> Beats <strong>14.6%</strong>
         <p>How efficiently code changes are addressed: commits and PRs closed, commit standards.</p>
       </div>
       <div>
-        <strong>Maintainer History:</strong> Top 35.3 Percentile
+        <strong>Maintainer History:</strong> Beats <strong>35.3%</strong>
         <p>Maintainer experience: maintainers' other projects.</p>
       </div>
     </td>
@@ -84,7 +84,7 @@ Activity and involvement by this project’s maintainer(s) for the benefit of th
 <summary><span style="font-size: 20px;"><strong>Code Quality -- </strong>Beats <strong><span style="color: blue;">12.4%</span></strong> Other Repos</summary>
 <div>
 <div align=center>
-  <img src="./images/roughViz/code_quality_component.png" width="500px" height="180px">
+  <img src="./images/roughViz/code_quality_component.png" width="500px" height="125px">
 </div><br>
 Security and scalability of the project’s code. Contributors can increase these metrics by maintaining the dependencies and setting up automated testing and procedural reviews.<br><br>
 </div>   
@@ -92,21 +92,21 @@ Security and scalability of the project’s code. Contributors can increase thes
   <tr>
     <td>
       <div>
-        <strong>Dependencies Health:</strong> Top 22.7 Percentile
+        <strong>Dependencies Health:</strong> Beats <strong>22.7%</strong>
         <p>Mitigation of dependency vulnerability risk: dependency versions, reported vulnerabilities.</p>
       </div>
       <div>
-        <strong>Review Coverage:</strong> Top 17.8 Percentile
+        <strong>Review Coverage:</strong> Beats <strong>17.8%</strong>
         <p>Scale of manual code reviews: contributors and reviewers per code portion, commit sizes.</p>
       </div>
     </td>
     <td>
       <div>
-        <strong>Testing Quality:</strong> Top 8.2 Percentile
+        <strong>Testing Quality:</strong> Beats <strong>8.2%</strong>
         <p>Scale of automated tests: workflow runs, check runs, code authors.</p>
       </div>
       <div>
-        <strong>Project Maturity:</strong> Top 0.7 Percentile
+        <strong>Project Maturity:</strong> Beats <strong>0.7%</strong>
         <p>Size and age of repo: lines of code, creation time, versions.</p>
       </div>
     </td>

@@ -8,7 +8,7 @@ Note: This is a forked repo. The original repo is [here](https://github.com/jwil
 -- Above grade is based on the percentile rankings of the 4 repo scores below, which are compared with the top 1000 most-downloaded npm libraries.
 
 <details>
-<summary><span style="font-size: 20px;"><strong>Maintenance -- </strong>Top <strong><span style="color: blue;">24.8</span></strong> Percentile</summary>
+<summary><span style="font-size: 20px;"><strong>Maintenance -- </strong>Beats <strong><span style="color: blue;">24.8%</span></strong> Other Repos</summary>
 <div>
 <div align=center>
   <img src="./images/roughViz/maintenance.png" width="500px" height="180px">
@@ -43,7 +43,7 @@ Activity and involvement by this project’s maintainer(s). Maintainers could in
 
 
 <details>
-<summary><span style="font-size: 20px;"><strong>Contribution -- </strong>Top <strong><span style="color: blue;">18.2</span></strong> Percentile</summary>
+<summary><span style="font-size: 20px;"><strong>Contribution -- </strong>Beats <strong><span style="color: blue;">18.2%</span></strong> Other Repos</summary>
 <div>
 <div align=center>
   <img src="./images/roughViz/contribution.png" width="500px" height="180px">
@@ -76,7 +76,7 @@ Activity and involvement by this project’s contributors. Fostering and encoura
 
 
 <details>
-<summary><span style="font-size: 20px;"><strong>Popularity -- </strong>Top <strong><span style="color: blue;">36.7</span></strong> Percentile</summary>
+<summary><span style="font-size: 20px;"><strong>Popularity -- </strong>Beats <strong><span style="color: blue;">36.7%</span></strong> Other Repos</summary>
 <div>
 <div align=center>
   <img src="./images/roughViz/popularity.png" width="500px" height="180px">
@@ -111,7 +111,7 @@ Activity and usage by this project’s consumers. Spreading this project to more
 
 
 <details>
-<summary><span style="font-size: 20px;"><strong>Code Quality -- </strong>Top <strong><span style="color: blue;">16.2</span></strong> Percentile</summary>
+<summary><span style="font-size: 20px;"><strong>Code Quality -- </strong>Beats <strong><span style="color: blue;">16.2%</span></strong> Other Repos</summary>
 <div>
 <div align=center>
   <img src="./images/roughViz/code_quality.png" width="500px" height="180px">

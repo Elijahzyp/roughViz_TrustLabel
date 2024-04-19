@@ -9,7 +9,7 @@ Note: This is a forked repo. The original repo is [here](https://github.com/jwil
 -- Above grade is based on the percentile rankings of the 3 trust component scores below, which are compared with the top 1000 most-downloaded npm libraries.
 
 <details>
-<summary><span style="font-size: 20px;"><strong>Community Activity and Integrity -- </strong>Top <strong><span style="color: blue;">20.0</span></strong> Percentile</summary>
+<summary><span style="font-size: 20px;"><strong>Community Activity and Integrity -- </strong>Beats <strong><span style="color: blue;">20.0%</span></strong> Other Repos</summary>
 <div>
 <div align=center>
   <img src="./images/roughViz/community_activity_and_integrity_component.png" width="500px" height="180px">
@@ -46,7 +46,7 @@ Activity and usage by this project’s consumers and contributors. More people u
 
 
 <details>
-<summary><span style="font-size: 20px;"><strong>Maintenance and Goodwill -- </strong>Top <strong><span style="color: blue;">24.8</span></strong> Percentile</summary>
+<summary><span style="font-size: 20px;"><strong>Maintenance and Goodwill -- </strong>Beats <strong><span style="color: blue;">24.8%</span></strong> Other Repos</summary>
 <div>
 <div align=center>
   <img src="./images/roughViz/maintenance_and_goodwill_component.png" width="500px" height="180px">
@@ -81,7 +81,7 @@ Activity and involvement by this project’s maintainer(s) for the benefit of th
 
 
 <details>
-<summary><span style="font-size: 20px;"><strong>Code Quality -- </strong>Top <strong><span style="color: blue;">12.4</span></strong> Percentile</summary>
+<summary><span style="font-size: 20px;"><strong>Code Quality -- </strong>Beats <strong><span style="color: blue;">12.4%</span></strong> Other Repos</summary>
 <div>
 <div align=center>
   <img src="./images/roughViz/code_quality_component.png" width="500px" height="180px">

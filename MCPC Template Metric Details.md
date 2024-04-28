@@ -12,7 +12,7 @@
 
 - percentage of [issues](https://github.com/jwilber/roughViz/issues) closed : 70%
 - average time to close [issues](https://github.com/jwilber/roughViz/issues) (7 months) : 0
-- average time until first [maintainers](https://opensource.guide/how-to-contribute/#anatomy-of-an-open-source-project) comment on [issues](https://github.com/jwilber/roughViz/issues) (7 months) : 0
+- average time until first maintainer comment on [issues](https://github.com/jwilber/roughViz/issues) (7 months) : 0
 
 ### Code Maintenance
 

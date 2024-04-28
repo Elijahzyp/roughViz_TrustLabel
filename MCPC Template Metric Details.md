@@ -20,7 +20,7 @@
 
 - percentage of [PR](https://github.com/jwilber/roughViz/pulls)s closed : 94%
 - time to close [PR](https://github.com/jwilber/roughViz/pulls)s (7 months) : 0.5 days
-- time until first [maintainer](https://opensource.guide/how-to-contribute/#anatomy-of-an-open-source-project) comment or close on [PR](https://github.com/jwilber/roughViz/pulls)s (7 months) : 1.6 days
+- time until first maintainer comment or close on [PR](https://github.com/jwilber/roughViz/pulls)s (7 months) : 1.6 days
 - days since last [commit](https://github.com/jwilber/roughViz/commits/master/) : 69 days
 - number of [commit](https://github.com/jwilber/roughViz/commits/master/) tags (7 months) : 10
 
